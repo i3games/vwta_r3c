@@ -620,7 +620,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"foo.json#bar"
+                         "value":"https://hubs.mozilla.com/yxCvak5/"
                         }],
                  "type":"EXIT"
                 }, 
