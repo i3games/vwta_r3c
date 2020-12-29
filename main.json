@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>/maps/art-games.json#start_virtual-winter-travel-agency"
+                 "value":"{<lobby>/maps/art-games.json#start_virtual-winter-travel-agency}"
                 }],
          "type":"tilelayer",
          "visible":true,
